@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumenmondalsm
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning UiPath
+- 🌱 I’m currently learning RPA
 
 <!---
 soumenmondalsm/soumenmondalsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
